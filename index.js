@@ -5,6 +5,7 @@ const app = express();
 const port = 7000;
 
 // Here's the server URL on render.com: https://csis3380-quiz2-vr9v.onrender.com
+// GitHub url: https://github.com/hiradary/csis3380-quiz2
 
 const uri =
   "mongodb+srv://hiradary:mord-paib9hour8LUSS@cluster0.zmtghzr.mongodb.net/?retryWrites=true&w=majority";

@@ -2,7 +2,7 @@ const express = require("express");
 const { MongoClient, ServerApiVersion } = require("mongodb");
 
 const app = express();
-const port = 6538;
+const port = 7000;
 
 const uri =
   "mongodb+srv://hiradary:mord-paib9hour8LUSS@cluster0.zmtghzr.mongodb.net/?retryWrites=true&w=majority";
